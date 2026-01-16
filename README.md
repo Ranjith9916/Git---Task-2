@@ -18,3 +18,8 @@ To understand Git version control and GitHub workflow.
 
 ## Outcome
 Learned real-world Git and GitHub version control workflow.
+
+
+## screenshot
+
+![Git Status] (screenshots/Screenshot 2026-01-16 125118.png)
